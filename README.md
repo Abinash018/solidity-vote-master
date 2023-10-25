@@ -1,1 +1,0 @@
-# solidity-vote-master
